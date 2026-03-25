@@ -1,39 +1,64 @@
-# Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Abanoub Abdelmessih  
-### Front-End Developer | React & Next.js Specialist | Developing High Quality Real-World Web Applications
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Abanoub%20Abdelmessih&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%7C%20Next.js&descAlignY=55&descAlign=60" width="100%">
 
----
+<div align="center">
 
-🌍  Feel free to connect or reach out through any of the platforms below:
-- 👉  My LinkedIn at : [**Abanoub Abdelmessih**](https://www.linkedin.com/in/abanoub-abdelmessih/)
-- 🖥️  See my portfolio at : [**My Portfolio**](https://abanoub-abdelmessih.vercel.app/)
-- 📫  Reach me via email : [**abanoubabdelmessih110@gmail.com**](mailto:abanoubabdelmessih110@gmail.com)
-- 📱  Message me on WhatsApp : [**+20 1559566765**](https://wa.me/201559566765)
+### 👋 About Me
+
+I'm a **Frontend Developer** focused on building **high-quality, scalable, and performant web applications** using **React & Next.js**.  
+I create **clean UI/UX designs** and continuously learn new technologies to deliver real-world solutions.
+
+<br>
+
+🔹 **Connect With Me:** <br><br>
+
+![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-05122A?logo=linkedin&style=flat)&nbsp;
+![GitHub](https://custom-icon-badges.demolab.com/badge/-GitHub-05122A?logo=github&style=flat)&nbsp;
+![Portfolio](https://custom-icon-badges.demolab.com/badge/-Portfolio-05122A?logo=vercel&style=flat)&nbsp;
+![Email](https://custom-icon-badges.demolab.com/badge/-Email-05122A?logo=gmail&style=flat)&nbsp;
+![WhatsApp](https://custom-icon-badges.demolab.com/badge/-WhatsApp-05122A?logo=whatsapp&style=flat)&nbsp;
+
+</div>
 
 ---
 
 ## 🚀 Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?logo=react-query&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?logo=react-hook-form&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3C1E1E?logo=zod&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?logo=mui&logoColor=white)
-![Shadcn/UI](https://img.shields.io/badge/Shadcn/UI-111827?logo=vercel&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-EF008F?logo=framer&logoColor=white)
-![i18next](https://img.shields.io/badge/i18next-26A69A?logo=i18next&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
+![TypeScript](https://custom-icon-badges.demolab.com/badge/-TypeScript-05122A?logo=typescript&style=flat)&nbsp;
+![React](https://custom-icon-badges.demolab.com/badge/-React-05122A?logo=react&style=flat)&nbsp;
+![Next.js](https://custom-icon-badges.demolab.com/badge/-Next.js-05122A?logo=nextdotjs&style=flat)&nbsp;
+![JavaScript](https://custom-icon-badges.demolab.com/badge/-JavaScript-05122A?logo=javascript&style=flat)&nbsp;
+![React Query](https://custom-icon-badges.demolab.com/badge/-React%20Query-05122A?logo=reactquery&style=flat)&nbsp;
+![Redux Toolkit](https://custom-icon-badges.demolab.com/badge/-Redux-05122A?logo=redux&style=flat)&nbsp;
+![React Hook Form](https://custom-icon-badges.demolab.com/badge/-React%20Hook%20Form-05122A?logo=reacthookform&style=flat)&nbsp;
+![Zod](https://custom-icon-badges.demolab.com/badge/-Zod-05122A?logo=zod&style=flat)&nbsp;
+![Axios](https://custom-icon-badges.demolab.com/badge/-Axios-05122A?logo=axios&style=flat)&nbsp;
+![Tailwind CSS](https://custom-icon-badges.demolab.com/badge/-Tailwind-05122A?logo=tailwindcss&style=flat)&nbsp;
+![Shadcn/UI](https://custom-icon-badges.demolab.com/badge/-Shadcn-05122A?logo=vercel&style=flat)&nbsp;
+![Material UI](https://custom-icon-badges.demolab.com/badge/-MUI-05122A?logo=mui&style=flat)&nbsp;
+![Bootstrap](https://custom-icon-badges.demolab.com/badge/-Bootstrap-05122A?logo=bootstrap&style=flat)&nbsp;
+![Sass](https://custom-icon-badges.demolab.com/badge/-Sass-05122A?logo=sass&style=flat)&nbsp;
+![Framer Motion](https://custom-icon-badges.demolab.com/badge/-Framer-05122A?logo=framer&style=flat)&nbsp;
+![i18next](https://custom-icon-badges.demolab.com/badge/-i18next-05122A?logo=i18next&style=flat)&nbsp;
+![Git](https://custom-icon-badges.demolab.com/badge/-Git-05122A?logo=git&style=flat)&nbsp;
+![GitHub](https://custom-icon-badges.demolab.com/badge/-GitHub-05122A?logo=github&style=flat)&nbsp;
+![VS Code](https://custom-icon-badges.demolab.com/badge/-VSCode-05122A?logo=visualstudiocode&style=flat)&nbsp;
+![Figma](https://custom-icon-badges.demolab.com/badge/-Figma-05122A?logo=figma&style=flat)&nbsp;
 
+---
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abanoub-Abdelmessih&theme=nord_dark"/>
+
+<p align='center'>
+    <img width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abanoub-Abdelmessih&theme=nord_dark"/>
+    <img width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abanoub-Abdelmessih&theme=nord_dark"/>
+    <img width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abanoub-Abdelmessih&theme=nord_dark"/>
+</p>
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%">

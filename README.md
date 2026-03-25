@@ -9,13 +9,13 @@ I create **clean UI/UX designs** and continuously learn new technologies to deli
 
 <br>
 
-💬 **Connect With Me:** <br>
+💬 **Connect With Me:**  
 
-![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-05122A?logo=linkedin&style=flat)&nbsp;
-![GitHub](https://custom-icon-badges.demolab.com/badge/-GitHub-05122A?logo=github&style=flat)&nbsp;
-![Portfolio](https://custom-icon-badges.demolab.com/badge/-Portfolio-05122A?logo=vercel&style=flat)&nbsp;
-![Email](https://custom-icon-badges.demolab.com/badge/-Email-05122A?logo=gmail&style=flat)&nbsp;
-![WhatsApp](https://custom-icon-badges.demolab.com/badge/-WhatsApp-05122A?logo=whatsapp&style=flat)&nbsp;
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-05122A?logo=linkedin&style=flat)](https://www.linkedin.com/in/abanoub-abdelmessih/) &nbsp;&nbsp;
+[![GitHub](https://custom-icon-badges.demolab.com/badge/-GitHub-05122A?logo=github&style=flat)](https://github.com/Abanoub-Abdelmessih) &nbsp;&nbsp;
+[![Portfolio](https://custom-icon-badges.demolab.com/badge/-Portfolio-05122A?logo=vercel&style=flat)](https://abanoub-abdelmessih.vercel.app/) &nbsp;&nbsp;
+[![Email](https://custom-icon-badges.demolab.com/badge/-Email-05122A?logo=gmail&style=flat)](mailto:abanoubabdelmessih110@gmail.com) &nbsp;&nbsp;
+[![WhatsApp](https://custom-icon-badges.demolab.com/badge/-WhatsApp-05122A?logo=whatsapp&style=flat)](https://wa.me/201559566765)
 
 </div>
 

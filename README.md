@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Abanoub%20Abdelmessih&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%7C%20Next.js&descAlignY=55&descAlign=60" width="100%">
 
 <div align="center">
-
-### 👋 About Me
+    
+### 👋🏻 About Me
 
 I'm a **Frontend Developer** focused on building **high-quality, scalable, and performant web applications** using **React & Next.js**.  
 I create **clean UI/UX designs** and continuously learn new technologies to deliver real-world solutions.
@@ -59,6 +59,5 @@ I create **clean UI/UX designs** and continuously learn new technologies to deli
 
 </div>
 
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%">

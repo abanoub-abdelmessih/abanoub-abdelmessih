@@ -9,7 +9,7 @@ I create **clean UI/UX designs** and continuously learn new technologies to deli
 
 <br>
 
-🔹 **Connect With Me:** <br><br>
+💬 **Connect With Me:** <br>
 
 ![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-05122A?logo=linkedin&style=flat)&nbsp;
 ![GitHub](https://custom-icon-badges.demolab.com/badge/-GitHub-05122A?logo=github&style=flat)&nbsp;

@@ -49,7 +49,7 @@ I create **clean UI/UX designs** and continuously learn new technologies to deli
 
 <div align="center">
 
-<img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abanoub-Abdelmessih&theme=nord_dark"/>
+<!-- <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abanoub-Abdelmessih&theme=nord_dark"/> -->
 
 <p align='center'>
     <img width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abanoub-Abdelmessih&theme=nord_dark"/>

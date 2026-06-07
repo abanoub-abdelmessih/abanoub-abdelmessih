@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 💬 Reach Me
+<h3>💬 Reach Me</h3>
 
 <a href="https://www.linkedin.com/in/abanoub-abdelmessih/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"   /></a>
 <a href="mailto:abanoubabdelmessih110@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"   /></a> 
@@ -30,10 +30,13 @@ I focus on writing clean, structured code and making thoughtful engineering deci
 <img src="https://skillicons.dev/icons?i=typescript&theme=dark&perline=15"   />
 <img src="https://skillicons.dev/icons?i=react"   />
 <img src="https://skillicons.dev/icons?i=nextjs"   />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=angular"   />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=expo"   />
 <img src="https://skillicons.dev/icons?i=js"   />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=jquery"   />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=reactquery"   />
 <img src="https://skillicons.dev/icons?i=redux"   />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=zustand"   />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=axios"   />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=shadcn"   />
 <img src="https://skillicons.dev/icons?i=tailwind"   />
@@ -46,5 +49,6 @@ I focus on writing clean, structured code and making thoughtful engineering deci
 <img src="https://skillicons.dev/icons?i=vscode"   />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel"   />
 <img src="https://skillicons.dev/icons?i=figma"   />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=postman"   />
 
 </div>

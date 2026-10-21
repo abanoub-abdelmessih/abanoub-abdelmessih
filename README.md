@@ -7,7 +7,9 @@
 <a href="https://www.linkedin.com/in/abanoub-abdelmessih/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"   /></a>
 <a href="mailto:abanoubabdelmessih110@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"   /></a> 
 <a href="https://github.com/abanoub-abdelmessih" target="_blank"><img src="https://skillicons.dev/icons?i=github"   /></a> 
-<a href="https://wa.me/201559566765"><img src="https://api.iconify.design/logos:whatsapp-icon.svg"  width="48" height="48"  /></a> 
+<a href="https://wa.me/201559566765" target="_blank">
+  <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="48" height="48" alt="WhatsApp" />
+</a>
 <a a href="https://abanoub-abdelmessih.vercel.app/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel"   /></a> 
 </div>
 
